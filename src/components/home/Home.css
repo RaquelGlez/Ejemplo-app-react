@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans'); 
+
+.body{
+    background-color:white;
+    color:black;
+    font-family:'Quattrocento Sans', sans-serif;
+    font-size: 1em;
+    
+
+}
+
+
+.footerContainer{
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    background-color: bisque;
+}
+
+.publication{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.input-group input {
+    padding: 20px;
+}

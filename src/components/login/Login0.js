@@ -5,7 +5,7 @@ import credentials from '../../configuration/firebase'
 import Login1 from './Login1.js';
 import Login2 from './Login2.js';
 import Login from './Login.js';
-import Home from '../../Home.js';
+import Home from '../home/Home';
 import {Button, FormGroup, Label, Input} from 'reactstrap';
 
 // Assets

@@ -5,6 +5,7 @@ import React, { Component } from 'react';
 //import Login0 from './components/login/Login0.js';
 import Login from './components/login/Login.js';
 // import Login2 from './components/login/Login2.js';
+import { BrowserRouter as Router, Route, Link, browsserHistory } from "react-router-dom";
 import './App.css';
 
 class App extends Component {
